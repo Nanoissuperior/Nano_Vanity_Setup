@@ -1,7 +1,7 @@
-apt update
-apt install ocl-icd-opencl-dev
-apt install curl
-apt install build-essential
+apt update -y
+apt install ocl-icd-opencl-dev -y
+apt install curl -y
+apt install build-essential -y
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 cargo install nano-vanity --features gpu
