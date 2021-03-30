@@ -18,4 +18,5 @@ respond when prompted (all defaults)
 
 
 example generation: 
+
 nano-vanity --generate-seed -g -t 12 *abc
