@@ -6,9 +6,13 @@ edit image, nvidia/openCL
 
 
 
+
+
 Select a server - I normally select 1gpu at reasonable price/hr
 
 run setup.sh
+respond when prompted (all defaults)
+
 
 example generation: 
 nano-vanity --generate-seed -g -t 12 *abc
