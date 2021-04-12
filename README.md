@@ -11,7 +11,8 @@ Choose the image :  nvidia/openCL - During testing this has been most sucsessful
 
 
 Select a server - I normally select 1gpu at reasonable price/hr
-nano-vanity can only use 1gpu per address
+
+nano-vanity can only use 1gpu per address (can do multiple generate at same time but not all work together)
 
 run setup.sh
 respond when prompted (all defaults)
